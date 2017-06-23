@@ -1,2 +1,5 @@
 # hello-world
-Just a try
+
+Hi,
+  It's the first project on Git.
+
